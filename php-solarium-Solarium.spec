@@ -16,6 +16,7 @@ Requires:	php(core) >= %{php_min_version}
 Requires:	php(curl)
 Requires:	php(date)
 Requires:	php(json)
+Requires:	php(pcre)
 Requires:	php(spl)
 Requires:	php-symfony2-EventDispatcher
 BuildArch:	noarch

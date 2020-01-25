@@ -1,6 +1,5 @@
 %define		package	Solarium
 %define		php_min_version 5.3.0
-%include	/usr/lib/rpm/macros.php
 Summary:	Solarium PHP Solr client library
 Name:		php-solarium-Solarium
 Version:	3.1.2

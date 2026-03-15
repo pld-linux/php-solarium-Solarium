@@ -3,7 +3,7 @@
 Summary:	Solarium PHP Solr client library
 Name:		php-solarium-Solarium
 Version:	3.1.2
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages/PHP
 Source0:	https://github.com/basdenooijer/solarium/archive/%{version}/%{package}-%{version}.tar.gz
